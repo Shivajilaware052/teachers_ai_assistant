@@ -78,14 +78,14 @@ Install requirements.txt by this command. pip install -r requirements.txt
 
 
 **Chatbot ScreenShots:**
-![My Image](images/Bot_Image_1.PNG)
+![My Image](Images/Bot_Image_1.PNG)
 
-![My Image](images/Bot_Image_2.PNG)
+![My Image](Images/Bot_Image_2.PNG)
 
-![My Image](images/Bot_Image_3.PNG)
+![My Image](Images/Bot_Image_3.PNG)
 
-![My Image](images/Bot_Image_4.PNG)
+![My Image](Images/Bot_Image_4.PNG)
 
-![My Image](images/Bot_Image_5.PNG)
+![My Image](Images/Bot_Image_5.PNG)
 
-![My Image](images/Bot_Image_6.PNG)
+![My Image](Images/Bot_Image_6.PNG)
